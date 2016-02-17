@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Relux]]></title>
         <description><![CDATA[Relux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/relux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 14:38:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 14:40:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/relux/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Unique, Professional, Software for light design]]></title>
-            <description><![CDATA[<h1>Unique, Professional, Software for light design</h1>]]></description>
-            <link>undefinedunique-professional-software-for-light-design/index.html</link>
+            <title><![CDATA[Unique, ]]></title>
+            <description><![CDATA[<article><h1>Unique, </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f759d09dc8767bd23ec4d73ade83d621bb1014.jpg"></article>]]></description>
+            <link>https://thegrid.ai/relux/unique-professional-software-for-light-design/index.html</link>
             <guid isPermaLink="false">d5e5424a-6944-44bf-b0ed-0e4ddc71b17f</guid>
-            <pubDate>Wed, 17 Feb 2016 14:34:02 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 14:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
